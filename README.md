@@ -1,16 +1,21 @@
-## Hi there 👋
+Hi, I'm Pablo Arrettino 👋
+I'm a passionate Software Developer with over 3 years of experience in building mobile applications and backend services. I specialize in React Native, React, and Node.js, and I'm always eager to learn and adapt to new technologies.
 
-<!--
-**ArrettinoRP/ArrettinoRP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Technologies & Tools
+Frontend: React, React Native, Expo, TypeScript
 
-Here are some ideas to get you started:
+Backend: Node.js, NestJS, Express
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Databases: PostgreSQL, MySQL, MongoDB
+
+Other: Docker, AWS, Firebase, RESTful APIs
+
+🌱 I’m currently learning
+Improving my skills with Machine Learning and AI.
+
+Building more complex backend systems with NestJS.
+
+Enhancing my knowledge of cloud technologies (AWS, Google Cloud).
+
+📬 How to reach me
+[LinkedIn](https://www.linkedin.com/in/ruben-pablo-arrettino-b26473197/)
